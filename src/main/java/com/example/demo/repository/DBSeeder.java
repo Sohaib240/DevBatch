@@ -1,4 +1,4 @@
-package com.example.demo.service;
+package com.example.demo.repository;
 
 import com.example.demo.Model.OutPatient;
 import com.example.demo.repository.PatientRepository;
